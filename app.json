@@ -1,7 +1,7 @@
 {
     "name": "MH Info Bot",
     "description": "A simple Info telegram bot",
-    "repository": "https://github.com/Develovepers/iDBoT",
+    "repository": "https://github.com/Mega-Hero/iDBoT",
     "keywords": [
         "telegram",
         "pyrogram",
