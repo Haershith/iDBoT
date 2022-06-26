@@ -12,19 +12,22 @@ This Bot To Get Info Of Telegram messages , Media , Channel id Group ID , Get yo
 𝑭𝒆𝒕𝒄𝒉 𝑰𝒅 & 𝑷𝒂𝒔𝒕𝒆 𝒀𝒐𝒖𝒓 𝑰𝒏𝒇𝒐 𝑶𝒓 𝑰𝑫
 
 ## variables
+• `App_Name` : By Your Wish Name
+
 • `App_iD` : Goto [my.telegram.org](my.telegram.org) to obtain this.
 
 • `Api_Hash` : Goto [my.telegram.org](my.telegram.org) to obtain this.
 
 • `BoT_Token` : Get the bot token from [@BotFather](https://t.me/botfather)
 
+• `Support_Chat` : Place this value without @ __link : MHGcHaT__
+
 ## Commands
- 𝐶𝑜𝑝𝑦 𝑎𝑛𝑑 𝑝𝑎𝑠𝑡𝑒 𝑖𝑛 [𝐵𝑜𝑡𝑓𝑎𝑡ℎ𝑒𝑟](https://t.me/Botfather) 𝑖𝑛 𝑐𝑜𝑚𝑚𝑎𝑛𝑑𝑠
-```MH
-start - bot Is alive are not
-help - how to use the bot
-id - get id yourid,channel id , group id and more 
-info - Get Info about you
+``` MH
+• /start - bot Is alive are not
+• /help - how to use the bot
+• /MHid - get id your id,channel id , group id and more 
+• /MHinfo - Get Info about you in Telegram
 ```
 ## Deployment
 
