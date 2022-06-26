@@ -31,7 +31,7 @@ info - Get Info about you
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
-[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com)
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?template=https://github.com/Mega-Hero/iDBoT)
 
 
 To Get Tutorial Video Make You Own BoT
