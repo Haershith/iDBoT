@@ -1,7 +1,7 @@
 import os
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
-
+import config.py
 
 Bot = Client(
     "Info Bot",
